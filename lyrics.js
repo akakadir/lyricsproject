@@ -1,4 +1,4 @@
-//github.com/akakadir
+//lyrics.js 1.0.6
 
 
 //css panels
