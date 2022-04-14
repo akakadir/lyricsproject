@@ -1,4 +1,4 @@
-//lyrics.js 1.0.6
+//lyrics.js v1.0.6
 
 
 //css panels
