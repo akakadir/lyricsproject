@@ -1,5 +1,5 @@
 # lyricsproject
-this simple js file makes the most efficient use of youtube embed system and avoids unnecessary data usage, you can upload items like playlist in a single tag. and with some features I added, you can simply use the text and music that change as the page is refreshed.
+this simple js file makes the most efficient use of youtube embed system and avoids unnecessary data usage, you can upload items like playlist in a single tag. and with some features I added, you can simply use the lyrics and songs that change as the page is refreshed.
 # usage
 ```
 <!-- random-embed -->
