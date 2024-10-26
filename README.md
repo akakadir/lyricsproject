@@ -1,4 +1,4 @@
-# lyricsproject
+# yt-embed-js
 this simple js file makes the most efficient use of youtube embed system and avoids unnecessary data usage, you can upload items like playlist in a single tag. and with some features I added.
 # usage
 
