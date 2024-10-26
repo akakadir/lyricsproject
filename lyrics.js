@@ -1,9 +1,6 @@
 //lyricsproject / last update 16-4-22
 //rework / 26-10-24
 
-const css = (e) => (document.head.appendChild(document.createElement("style")).innerHTML = e);
-css("embed{ border:none;border-radius:10px; }");
-
 function embd(e) {
     var n = document.createElement("embed");
     n.setAttribute("src", "//youtube.com/embed/" + e.dataset.id + "?rel=0&showinfo=0&autohide=1&modestbranding=1"), e.parentNode.replaceChild(n, e);
