@@ -1,5 +1,5 @@
 //lyricsproject / last update 16-4-22
-//rework / 26-10-24
+//rework to embed.js / 26-10-24
 
 function embd(e) {
     var n = document.createElement("iframe");
