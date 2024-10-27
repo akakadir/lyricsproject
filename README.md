@@ -4,7 +4,7 @@ this simple js file makes the most efficient use of youtube embed system and avo
 
 ```html
 <!-- single -->
-<div class="embed" data-id="ZYYKHXqGgZg"></div>
+<div class="single" data-id="ZYYKHXqGgZg"></div>
 
 <!-- playlist -->
 <div class="playlist" data-id="PLzdbroo8EhDvW9CPUMhb68RI3FyxkVy3M"></div>
