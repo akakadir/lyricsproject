@@ -1,5 +1,5 @@
 //lyricsproject / last update 16-4-22
-//rework to embed.js / 26-10-24
+//reworked to embed.js / 26-10-24
 
 const css = elmnts => document.head.appendChild(document.createElement("style")).innerHTML = elmnts;
 css(`
